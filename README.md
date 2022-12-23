@@ -1,8 +1,5 @@
 # Hi there, I'm Daniel - aka [Daryland][linkedin] 👋 
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daryland)](https://github.com/daryland/github-readme-stats)
-
-
 ## I'm a Developer, and Always learning!!
 
 - 🌱 I’m currently learning all I can 
@@ -59,8 +56,7 @@
 
 <details>
 
-  <summary>:zap: GitHub Stats</summary>
-[![Daniels GitHub stats](https://github-readme-stats.vercel.app/api?username=Daryland)](https://github.com/daryland/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daryland)](https://github.com/daryland/github-readme-stats)
 
 </details>
 
