@@ -4,7 +4,7 @@
 Skills: MONGO / API / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on javascript and React/API 
-- 🌱 I’m currently learning React/APIs 
+- 🌱 I’m currently learning React/APIs/MONGO
 - 💬 Ask me about my experiences 
 - 📫 How to reach me: rylandcs@gmail.com 
 - ⚡ Fun fact: Avid gamer and long time Jiu-Jitsu practioner 
