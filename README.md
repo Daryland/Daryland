@@ -41,6 +41,12 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Mindset Wins](https://medium.com/@rylandcs/mindset-wins-6a6fe7bbe35d)
+- [Keywords](https://medium.com/@rylandcs/keywords-eeac56b1ef7e)
+- [Github Quick Launch](https://medium.com/@rylandcs/github-quick-launch-65f9417b4325)
+- [Github](https://medium.com/@rylandcs/github-bfaa1653ff61)
+- [Websites Are Fun](https://medium.com/@rylandcs/websites-are-fun-c3055afa10c3)
+- [CodeStackR's How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@rylandcs)
