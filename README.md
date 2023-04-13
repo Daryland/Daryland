@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Daniel
 ![I am GitHub Readme Generator's creator](https://i.gifer.com/7gRx.gif)
 
-Skills: MONGO / API / REACT / JS / HTML / CSS
+Skills: GRAPHQL / API / REACT / JS / HTML / CSS / SQL / TYPESCRIPT / POSTMAN / SPLUNK
 
 - 🔭 I’m currently working on JavaScript and React/API 
 - 🌱 I’m currently learning React/APIs/MONGO
