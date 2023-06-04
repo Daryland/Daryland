@@ -3,6 +3,8 @@
 
 Skills: GRAPHQL / API / REACT / JS / HTML / CSS / SQL / TYPESCRIPT / POSTMAN / SPLUNK
 
+https://codepen.io/DaRyland
+
 - 🔭 I’m currently working on JavaScript and React/API 
 - 🌱 I’m currently learning React/APIs/MONGO
 - 💬 Ask me about my experiences 
