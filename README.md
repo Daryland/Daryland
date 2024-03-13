@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Ryland</h1>
 <h3 align="center">A passionate frontend developer from Oklahoma</h3>
 
-- 🌱 I’m currently learning **TypeScript, MongoDB, Sql, Python and CyberSecurity**
+- 🌱 Heavily involved with Linux, DevOps, Python and CyberSecurity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Daryland](https://github.com/Daryland)
 
