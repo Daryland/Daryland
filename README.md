@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Daryland](https://github.com/Daryland)
 
-- 📫 How to reach me **rylandcs@gmail.com**
+- 📫 How to reach me **Daniel.Ryland@PM.me**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/daniel-ryland-1b233a68/](https://www.linkedin.com/in/daniel-ryland-1b233a68/)
 
@@ -23,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daryland&show_icons=true&locale=en&layout=compact" alt="daryland" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daryland&show_icons=true&locale=en" alt="daryland" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daryland&" alt="daryland" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=daryland&" alt="daryland" /></p>
