@@ -3,7 +3,7 @@
 
 - 🌱 Heavily involved with AWS, DevOps, Javascript and CyberSecurity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Daryland](https://github.com/Daryland)
+- 👨‍💻 All of my projects are available at [https://github.com/Daryland](https://github.com/Daryland) - Front End Projects [https://codepen.io/daryland](https://codepen.io/daryland)
 
 - 📫 How to reach me **Daniel.Ryland@PM.me**
 
