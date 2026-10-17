@@ -10,7 +10,7 @@
 - 👨‍💻 Check out my projects on [GitHub](https://github.com/Daryland) and [CodePen](https://codepen.io/daryland)
 - 📫 Reach me at: **Daniel.Ryland@PM.me**
 - 💼 View my experience on [LinkedIn](https://www.linkedin.com/in/daniel-ryland-1b233a68/)
-- ⚡ Fun fact: **Jiu-Jitsu Brown Belt** 🥋
+- ⚡ Fun fact: **Jiu-Jitsu Black Belt** 🥋
 
 ---
 
